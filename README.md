@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Sam and I'm a computer science major. Im currently taking Software Engineering and look forward to adding my projects on this!
 <!--
 **szaccaro/szaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
