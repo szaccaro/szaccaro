@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center"> I'm a computer science major. Im currently taking Software Engineering and look forward to adding my projects on this!</h3>
 
-![Uploading hello-there-private-from-penguins-of-madagascar.gif…]()
+![hello-there-private-from-penguins-of-madagascar](https://user-images.githubusercontent.com/97983354/190299574-6153cd89-7139-436a-b1b6-8d8e0077f48e.gif)
+
+
 - ⚡ Fun facts: I am from New York and I enjoy the beach
 
 <h3 align="left">Connect with me:</h3>
